@@ -2,4 +2,4 @@
 # Curso C# COMPLETO 2020 Programação Orientada a Objetos + Projetos
 # Udemy - Professor Nelio Alves
 
-Este projeto trata de Enums, Composição e utilização do String Builder.
+Neste projeto é tratado sobre Enums, Composição e utilização do String Builder.
